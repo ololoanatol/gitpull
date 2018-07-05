@@ -1,2 +1,4 @@
 Edycja 1
 Branch 1
+
+Edycja 2
